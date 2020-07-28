@@ -1,8 +1,6 @@
 # Criar um aplicativo de consulta a API do [GitHub](https://github.com)#
 
-
-* isto é uma copia do meu pull request 
-    * https://github.com/MarcosEduardoJr/desafio-android/tree/marcos-eduardo-jr 
+ 
 
 Aplicativo para consultar a [API do GitHub](https://developer.github.com/v3/) e trazer os repositórios mais populares de Java. Basear-se no mockup fornecido:
 
@@ -19,7 +17,7 @@ Aplicativo para consultar a [API do GitHub](https://developer.github.com/v3/) e 
   * Ao tocar em um item, deve abrir no browser a página do Pull Request em questão
 
 * Sistema de build Gradle
-* Mapeamento JSON -> Objeto (GSON / Jackson / Moshi / etc)
+* Mapeamento JSON -> Objeto (GSON  )
 * Material Design
 
 
