@@ -1,4 +1,4 @@
-# Criar um aplicativo de consulta a API do [GitHub](https://github.com)#
+# Aplicativo de consulta a API do [GitHub](https://github.com)#
 
  
 
