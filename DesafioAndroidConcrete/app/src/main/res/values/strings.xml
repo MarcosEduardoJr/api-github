@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Challenge Android Concrete</string>
+    <string name="app_name">Api Github</string>
     <string name="name_repository">Name repositoryDetail</string>
     <string name="description_repository">Description of repositoryDetail</string>
     <string name="number_fork">00</string>

@@ -108,7 +108,7 @@ public class AuthActivity extends AppCompatActivity {
 
 
     private void auth() {
-        if (code.contentEquals("")) {
+        if (!code.contentEquals("")) {
             Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(GITHUB_AUTH_PATH));
             startActivity(intent);
         }
